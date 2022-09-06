@@ -1,0 +1,3 @@
+#!/bin/bash
+alias list-all="ls"
+alias remove-all = "rm *"
